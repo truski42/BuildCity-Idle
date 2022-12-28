@@ -9,4 +9,6 @@ You start the game in a minimalist menu where you have several options such as "
 <img src="MenuPL.png" width="650"/>
 
 ## Install
-...
+Go to Google Play Store and install it
+You must API +21
+https://play.google.com/store/apps/details?id=com.TruskiStudio.Clicker
